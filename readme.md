@@ -19,5 +19,6 @@ Time Complexity: O(n) ( we've travel one time  on array )
 Space Complexity: O(n) (storing the element of `len` length )
 
 
-3) input/output
+3) input/output --------
+
 ![alt text](image.png)
