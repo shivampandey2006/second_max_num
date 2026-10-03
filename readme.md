@@ -18,7 +18,11 @@ Time Complexity: O(n) ( we've travel one time  on array )
 
 Space Complexity: O(n) (storing the element of `len` length )
 
+3) alternate solution ---------
 
-3) input/output --------
+A priority queue (max heap) can be also used to find the second largest unique number by first getting the largest element and  removing all its duplicate occurrences (largest number), and then taking the next element from the top as a answer.
+
+
+4) input/output --------
 
 ![alt text](image.png)
